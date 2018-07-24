@@ -1,0 +1,17 @@
+<package format="2">
+  <name>ros947d_vmarker</name>
+  <version>0.0.0</version>
+  <description>
+    947D visualization marker utility
+  </description>
+  <maintainer email="h-yaguchi@947d-tech.co.jp">Hiroaki Yaguchi</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>rospy</depend>
+  <depend>tf</depend>
+  <depend>std_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <depend>visualization_msgs</depend>
+</package>

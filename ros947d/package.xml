@@ -1,0 +1,15 @@
+<package format="2">
+  <name>ros947d</name>
+  <version>0.0.0</version>
+  <description>947D ROS package</description>
+  <maintainer email="h-yaguchi@947d-tech.co.jp">Hiroaki Yaguchi</maintainer>
+  <license>MIT</license>
+  
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <exec_depend>ros947d_vmarker</exec_depend>
+
+  <export>
+  <metapackage />
+  </export>
+</package>
