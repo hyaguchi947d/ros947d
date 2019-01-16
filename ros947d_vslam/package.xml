@@ -1,0 +1,15 @@
+<package format="2">
+  <name>ros947d_vslam</name>
+  <version>0.0.0</version>
+  <description>
+    947D visual slam
+  </description>
+  <maintainer email="h-yaguchi@947d-tech.co.jp">Hiroaki Yaguchi</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>rospy</depend>
+  <depend>tf</depend>
+  <depend>rtabmap_ros</depend>
+</package>
